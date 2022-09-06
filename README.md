@@ -4,13 +4,14 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- Full flutter chat application
+- send messages , images ,  records , files
+- creat groups and chat in groups
+- Show your profile and other users profil
+- Searching for users
+- edit your name and password
 
-A few resources to get you started if this is your first Flutter project:
+################################ IMPORTANT ##################################
+#    THE SIGN UP IN THIS APP VIA THE "DASHBOARD" ON THIS ACCOUNT ON GITHUB  #                                                         
+#############################################################################
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
