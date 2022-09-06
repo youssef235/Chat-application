@@ -6,8 +6,8 @@ A new Flutter project.
 
 - Full flutter chat application
 - send messages , images ,  records , files
-- creat groups and chat in groups
-- Show your profile and other users profil
+- create groups and chat in groups
+- Show your profile and other users profile
 - Searching for users
 - edit your name and password
 
