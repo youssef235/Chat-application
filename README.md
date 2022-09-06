@@ -11,7 +11,5 @@ A new Flutter project.
 - Searching for users
 - edit your name and password
 
-################################ IMPORTANT ##################################
 #    THE SIGN UP IN THIS APP VIA THE "DASHBOARD" ON THIS ACCOUNT ON GITHUB  #                                                         
-#############################################################################
 
