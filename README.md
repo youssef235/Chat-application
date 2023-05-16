@@ -2,6 +2,7 @@
 
 A new Flutter project.
 ![Screenshot_20230515-222313](https://github.com/youssef235/Chat-application/assets/55225729/b0917110-6fac-450d-9e92-0e208f05a65b)
+A new Flutter project.
 ![Screenshot_20230515-215312](https://github.com/youssef235/Chat-application/assets/55225729/9f48937f-a47e-4739-a2e8-3c92d3e1305a)
 ![Screenshot_20230515-215254](https://github.com/youssef235/Chat-application/assets/55225729/773e7a54-d123-440e-a79d-8a90fc4cc3a4)
 ![Screenshot_20230515-214950](https://github.com/youssef235/Chat-application/assets/55225729/3b7a9b65-4c34-44c4-9ef5-00ba4e80abdd)
